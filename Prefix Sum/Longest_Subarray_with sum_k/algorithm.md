@@ -1,6 +1,3 @@
-# 📌 Longest Subarray with Sum Equal to K
-
-## 🚀 Algorithm (2 Simple Steps)
 
 ### Step 1: Compute Prefix Sums
 
